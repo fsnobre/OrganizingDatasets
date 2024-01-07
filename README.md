@@ -1,7 +1,7 @@
 # Datasets
 
-Repositório com datasets utilizados para análise de dados.
+Repo with some dataset.
 
-2020-02-14_InfraredSolarModules.zip ---- Dataset original https://github.com/RaptorMaps/InfraredSolarModules
+2020-02-14_InfraredSolarModules.zip ---- Original dataset https://github.com/RaptorMaps/InfraredSolarModules
 
-InfraredSolarModules-Modificado.zip ---- Dataset acima, mas com as classes separadas em pastas
+InfraredSolarModules-Modificado.zip ---- Above dataset, but classes are separated in classes (to make it easier to import with Tensorflow).
